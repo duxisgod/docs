@@ -38,3 +38,6 @@ Please feel free to give us feedback to that page on [GitHub](https://github.com
 ### Potential Extra Charges
 
 > Credit Card charges in USD are still done by a German company which means that some payment providers may consider payments to Contabo as a foreign transaction and may charge extra fees on customer's side, even if there is no currency conversion.
+
+
+:
